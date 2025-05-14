@@ -21,10 +21,10 @@ I'm a dedicated developer with a passion for building impactful web platforms an
 
 ### 🌟 What I’m Doing Now
 
-- 🛒 Building the **GIRA ICT E-commerce Platform**
-- 🌐 Working with **Next.js**, **Tailwind CSS**, **MongoDB**, and **Node.js**
+- 🏗️ Building modern construction websites in Rwanda — like **WEMEP**, **Certitude Group**, **Electrical Solutions**, and Trusty Group — showcasing services, portfolios, and contact functionality
+- 🌐 Working with **Next.js**, **Tailwind CSS**, **postgress & MySQL**, and **Node.js**
 - 🔌 Enhancing embedded systems & IoT prototypes with **Arduino**
-- 💳 Integrating payment systems like **Flutterwave** & **Stripe**
+- 💳 Integrating payment systems like **Flutterwave** **Stripe** **IremboPay***
 - 🔒 Studying secure coding & backend architecture
 
 ---
@@ -39,7 +39,7 @@ I'm a dedicated developer with a passion for building impactful web platforms an
 
 ### 📫 Let’s Connect!
 
-- 💼 LinkedIn: [linkedin.com/in/alainniganze](https://linkedin.com/in/alainniganze)  
+- 💼 LinkedIn: [[[linkedin.com/in/alainniganze](https://linkedin.com/in/alainniganze](https://www.linkedin.com/in/alain-niganze-4a4908252/)](https://www.linkedin.com/in/alain-niganze-4a4908252/))  
 - 📧 Email: alain@kemmy.org  
 - 🐙 GitHub: [github.com/niganze](https://github.com/niganze)
 
